@@ -4,6 +4,8 @@ Project Black Book : https://drive.google.com/file/d/1eIY9-hLjUo6ZHjYv8OiJLrbdPS
 
 Copyright : https://drive.google.com/file/d/1DsiStZqliP2uhBv0dnuBgYLbMJT3pwPh/view?usp=sharing 
 
+Paper Published on IoT Clean Sweeper : https://ijariie.com/FormDetails.aspx?MenuScriptId=215924
+
 Working Video on IoT Cleaner : https://drive.google.com/drive/folders/1-eYxFUtHTKIS7Aik1lshKY7duO710e8q?usp=sharing
 
 ![IMG_20220516_231744](https://github.com/RiteshPhadtare2004/Clean-Sweeper-Black-Book/assets/138662944/c5ccc133-0739-4f58-94b4-778be9a4569f)
